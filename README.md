@@ -15,6 +15,6 @@ Welcome to my GitHub profile!
 
 <br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosantoss12&langs_count=8&hide=html,css,scss&layout=compact&theme=vision-friendly-dark" alt="joaomiguel13" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomiguel13&langs_count=8&hide=html,css,scss&layout=compact&theme=vision-friendly-dark" alt="joaomiguel13" /></p>
 
 
