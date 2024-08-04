@@ -8,6 +8,7 @@ Welcome to my GitHub profile!
 <a href="https://www.instagram.com/joaomiguell_13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joaomiguell_13" height="30" width="40" /></a>
 <a href="https://x.com/joaomiguel133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joaomiguel133" height="30" width="40" /></a>
 <a href="https://www.facebook.com/joao.miguel1345/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joao.miguel1345" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/joão-duarte-303570321/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="joao.miguel1345" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
