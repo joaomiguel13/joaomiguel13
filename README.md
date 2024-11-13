@@ -1,7 +1,7 @@
 ## Hello, I'm João Miguel! 👋
 Welcome to my GitHub profile!
 
-- 🔭 I’m currently studying Computer Engineering at Instituto Superior de Engenharia de Coimbra
+- 🔭 I’m currently studying Computer Engineering at Instituto Superior de Engenharia de Coimbra and doing an intership at Accenture
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
